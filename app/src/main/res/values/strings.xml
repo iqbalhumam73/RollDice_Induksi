@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Induksi Dice Roller</string>
+    <string name="default_tv_text">Click the button to roll the dice</string>
 </resources>
